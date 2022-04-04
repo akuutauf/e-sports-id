@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;1,200;1,300;1,400;1,500;1,600&display=swap');
+
+html {
+    overflow-x: hidden;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-theme {
+    background-color: #F2994A;
+    color: #fff !important;
+    border: 2px solid #F2994A;
+}
+
+.btn-theme:hover {
+    color: #F2994A !important;
+    background-color: #fff;
+    border: 2px solid #F2994A;
+}
+
+.stroke-theme {
+    border: 2px solid #F2994A;
+    color: #F2994A !important;
+}
+
+.text-theme {
+    color: #F2994A !important;
+}
+
+.bg-theme {
+    background-color: #F2994A;
+}
+
+.bg-white {
+    background-color: #fff;
+}
+
+.sudut {
+    border-radius: 10px;
+}
+
+.form-search :focus {
+    outline-color: none;
+}
+
+.sudut-card {
+    border-radius: 15px !important;
+}
+
+.btn-width {
+    width: 25rem;
+}
+
+.my-img {
+    width: 280px;
+}
+
+.color-tittle {
+    color: #4F4F4F !important;
+}
+
+.color-subtittle {
+    color: #ACACAC !important;
+}
+
+.font-footer {
+    font-size: 20px;
+}
+
+.icon-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.warna-komponen {
+    background-color: cornflowerblue;
+}
